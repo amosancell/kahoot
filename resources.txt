@@ -1,0 +1,1 @@
+For naming conventions at end of project: https://stackoverflow.com/questions/18927298/node-js-project-naming-conventions-for-files-folders/20885809#20885809
